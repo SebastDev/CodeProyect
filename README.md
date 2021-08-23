@@ -26,9 +26,4 @@ Uno de los motivos que nos llevó a elaborar este proyecto se centra en el creci
 Con la aplicación de este proyecto a la Empresa Comercializadora de Ropa Infantil Violetas, ubicada en la ciudad de Bogotá, pretendemos evidenciar la capacidad transformadora de las T.I.C en las microempresas, pasando de un perfil obsoleto y anticuado a uno sostenible y competitivo; características necesarias y urgentes en la sociedad de hoy.
 Es una oportunidad de oro implementar las T.I.C en una microempresa debido a que tendrá una proyección favorable con respecto a los desafíos venideros.
 
-<div align = "center">
-<img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"> <img src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100">
-<img src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100"> 
-<img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"> <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="100">
-</div>
 
