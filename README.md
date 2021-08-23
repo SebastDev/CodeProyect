@@ -26,7 +26,7 @@ Uno de los motivos que nos llevó a elaborar este proyecto se centra en el creci
 Con la aplicación de este proyecto a la Empresa Comercializadora de Ropa Infantil Violetas, ubicada en la ciudad de Bogotá, pretendemos evidenciar la capacidad transformadora de las T.I.C en las microempresas, pasando de un perfil obsoleto y anticuado a uno sostenible y competitivo; características necesarias y urgentes en la sociedad de hoy.
 Es una oportunidad de oro implementar las T.I.C en una microempresa debido a que tendrá una proyección favorable con respecto a los desafíos venideros.
 
-### Lenguajes de programación y herramientas utilizadas.
+## Lenguajes de programación y herramientas utilizadas.
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
